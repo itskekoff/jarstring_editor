@@ -1,7 +1,6 @@
 # jarstring_editor
 
-This template should help get you started developing with Vue 3 in Vite.
-
+Shitcode project inspired by [Jar String Editor](https://leonardosnt.github.io/jar-string-editor/) by leoradosnt
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
